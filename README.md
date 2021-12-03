@@ -17,6 +17,6 @@
  *grapes
  *banana
 1. vegetables  
-     i.  potato
-     ii.  tomato
-     iii.  pumpkin
+     1.  potato
+     2.  tomato
+     3.  pumpkin
