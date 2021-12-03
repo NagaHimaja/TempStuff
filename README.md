@@ -11,3 +11,12 @@
 ***bold and italic type font***
 
 ~~strike through statement~~
+
+*fruits
+ *apple
+ *grapes
+ *banana
+1. vegetables  
+     i.  potato
+     ii.  tomato
+     iii.  pumpkin
